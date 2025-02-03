@@ -1,7 +1,5 @@
 # Zomato Power BI Dashboard 🍽️🍜
 
-Dataset Source : Kaggle
-
 This project delves into the world of Zomato, analyzing key operational and performance metrics using the power of Power BI. By visualizing data from over 150,000 orders across 150,000+ locations, we gained valuable insights into:
 
 * Order Distribution: Identified key markets like Tirupati, Electronic City, and Raipur
@@ -23,4 +21,6 @@ This project delves into the world of Zomato, analyzing key operational and perf
 ## Conclusion:
 
 This Power BI dashboard provides a valuable tool for Zomato to understand customer behavior, identify growth opportunities, and optimize its operations for continued success in the competitive food delivery market.
+
+Dataset Source : https://drive.google.com/drive/folders/1aluMi-PHu0oZXNEcdcFYC1srG05CWuLs
 
